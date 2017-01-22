@@ -1,2 +1,2 @@
 # AureliaPlayer
-A simple music player.
+A simple online music player supporting voice control.
