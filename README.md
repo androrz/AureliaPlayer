@@ -1,2 +1,2 @@
-# AureliaPlayer
-A simple online music player supporting voice control.
+# Aurelia
+A simple online music app supporting voice control.
